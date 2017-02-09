@@ -1,0 +1,2 @@
+# vscode-aurelia-test
+test
